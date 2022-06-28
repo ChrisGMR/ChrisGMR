@@ -15,8 +15,8 @@ Fluent: HTML & CSS | JavaScript ES6 | Express | Node.js | NoSQL <br />
 Familiar: React | SQL | (very limited C# mainly have usedit on personal unity projects)
 
 ### Finde me on 
-- Linkedin <a href="https://www.linkedin.com/in/christian-munoz-ruiz-/">LinkedIn</a> 💼
-- Personal Website <a href="https://chrisgmr.github.io/Profile/">Personal Website</a>
+-  <a href="https://www.linkedin.com/in/christian-munoz-ruiz-/">LinkedIn</a> 💼
+-  <a href="https://chrisgmr.github.io/Profile/">Personal Website</a>
 ### Projects
 - <a href="https://chrisgmr.github.io/Hangman/">Hang Man</a>
 - links to some of my projects <a href="comingupsoon.com">coming up!!</a>
