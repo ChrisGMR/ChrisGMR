@@ -16,7 +16,7 @@ Familiar: React | SQL | (very limited C# mainly have usedit on personal unity pr
 
 ### Finde me on 
 -  <a href="https://www.linkedin.com/in/christian-munoz-ruiz-/">LinkedIn</a> 💼
--  <a href="https://chrisgmr.github.io/Profile/">Personal Website</a>
+-  <a href="https://chrisgmr.github.io/portfolio/">Personal Website</a>
 ### Projects
 - <a href="https://chrisgmr.github.io/Hangman/">Hang Man</a>
 - links to some of my projects <a href="comingupsoon.com">coming up!!</a>
