@@ -18,5 +18,8 @@ Familiar: React | SQL | (very limited C# mainly have usedit on personal unity pr
 -  <a href="https://www.linkedin.com/in/christian-munoz-ruiz-/">LinkedIn</a> 💼
 -  <a href="https://chrisgmr.github.io/portfolio/">Personal Website</a>
 ### Projects
+- <a href="https://salty-crag-71099.herokuapp.com/">Reddit Clone</a>
+- <a href="https://polar-basin-85630.herokuapp.com">Weather App</a>
 - <a href="https://chrisgmr.github.io/Hangman/">Hang Man</a>
-- links to some of my projects <a href="comingupsoon.com">coming up!!</a>
+- <a href="https://chrisgmr.github.io/Higher-or-Lower/">Higher or Lower</a>
+
